@@ -22,21 +22,6 @@ A React application that helps users generate personalized cold emails for job a
 - Vite
 - Lucide React (for icons)
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── EmailGenerator.tsx    # Main email generation component
-│   ├── GeneratedEmail.tsx    # Email display and copy functionality
-│   ├── JobDescriptionInput.tsx # Job description input form
-│   └── Footer.tsx           # Application footer
-├── utils/
-│   ├── extractKeywords.ts   # Job description parsing logic
-│   └── generateEmailContent.ts # Email template generation
-└── App.tsx                  # Root component
-```
-
 ## Getting Started
 
 1. Clone the repository
